@@ -1,0 +1,17 @@
+{
+	"info": {
+		"_postman_id": "6fa7b198-74b8-40a7-a7a5-5d156db77002",
+		"name": "indent-test",
+		"schema": "https://schema.getpostman.com/json/collection/v2.0.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "New Request",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		}
+	]
+}
