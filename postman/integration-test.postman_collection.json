@@ -2,12 +2,15 @@
 	"info": {
 		"_postman_id": "00dca416-ca2b-4453-a6c4-87ec040d14bc",
 		"name": "integration-test",
-		"schema": "https://schema.getpostman.com/json/collection/v2.0.0/collection.json",
-		"_exporter_id": "14658679"
+		"schema": "https://schema.getpostman.com/json/collection/v2.0.0/collection.json"
 	},
 	"item": [
 		{
 			"name": "New Request",
+			"_postman_id": "ead0904f-7976-422a-9ba4-e90e25bb069f",
+			"protocolProfileBehavior": {
+				"disableBodyPruning": true
+			},
 			"request": {
 				"method": "GET",
 				"header": [],
